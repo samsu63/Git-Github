@@ -4,4 +4,4 @@ Memahami beberapa istilah yang digunakan dalam Git dan GitHub
 Membuat acount di GitHub
 Membuat repository
 Membuat file dalam repository
-Instalasi GIT
+Memahami pembuatan Commit
