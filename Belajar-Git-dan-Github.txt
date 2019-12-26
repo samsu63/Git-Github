@@ -1,0 +1,3 @@
+Memahami dengan baik apa itu Git, GitHub
+Kenapa menggunakan VCS
+Memahami beberapa istilah yang digunakan dalam Git dan GitHub
