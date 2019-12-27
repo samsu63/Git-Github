@@ -1,0 +1,5 @@
+Instal Git pada lokal komputer 
+- download git dari https://git-scm.com
+- belajar menggunakan console (command prompt)
+- download ebooknya dari https://git-scm.com/book/id/v2
+Belajar perintah dasar Git berbasis command prompt
